@@ -10,15 +10,15 @@
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		j8cdsdKe+u/1lf3eWevWm9h5AAU=
+		nVt7AM03rAciXjkRoNpHLTRBo64=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		ZATR0fRSFTesTqVGokbythbe9qc=
+		STIQUYN6z9WOJehDPh6xoDus+9c=
 		</data>
-		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
+		<key>Resources/Base.lproj/Main.storyboardc/NSViewController-XfG-lQ-9wD.nib</key>
 		<data>
-		YKA2htyfCaKKIHltS71keYynRMg=
+		B86+78ZWfCoTQvVFr2wCRANCR0I=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<data>
@@ -56,21 +56,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wdzlpUDKB68TAHFGOcO7CoxT7eJpwKF/+X6y1XdboU8=
+			n+sF21Bqw+ZSzMnh97MYFEZLMRw8/mBeiWsPpr+kyvg=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gUUxRnwIVt0tMXyj8++swrO9hBXXpKIw7oejD7Nk3AU=
+			pKKREcVd3ngS5pV7jw9uyqDc959v52SzF2JOlZhSmbw=
 			</data>
 		</dict>
-		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
+		<key>Resources/Base.lproj/Main.storyboardc/NSViewController-XfG-lQ-9wD.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5q42xbbklzKb8BbSdtHdBCXDOqSpFqFFp6N2sknPPOg=
+			xdNfpUBh6xWEkQNDlgOLRamOf0xobnU9bY5AlQcoTrQ=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
