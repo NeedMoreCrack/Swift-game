@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/shooting-master.dia",
+    "emit-module-dependencies" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/shooting-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/shooting-master-emit-module.dia",
+    "swift-dependencies" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/shooting-master.swiftdeps"
+  },
+  "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/shooting.build/Debug/shooting.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/shooting/AppDelegate.swift" : {
+    "const-values" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/AppDelegate.dia",
+    "index-unit-output-path" : "/shooting.build/Debug/shooting.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/shooting/ViewController.swift" : {
+    "const-values" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/ViewController.d",
+    "diagnostics" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/ViewController.dia",
+    "index-unit-output-path" : "/shooting.build/Debug/shooting.build/Objects-normal/x86_64/ViewController.o",
+    "llvm-bc" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/ViewController.bc",
+    "object" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/ViewController.o",
+    "swift-dependencies" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/ViewController~partial.swiftmodule"
+  }
+}
