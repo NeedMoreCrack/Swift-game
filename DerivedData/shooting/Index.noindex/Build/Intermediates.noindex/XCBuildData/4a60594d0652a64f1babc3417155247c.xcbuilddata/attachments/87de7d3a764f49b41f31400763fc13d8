@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Index.noindex/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/shooting-master.d",
+    "diagnostics" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Index.noindex/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/shooting-master.dia",
+    "emit-module-dependencies" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Index.noindex/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/shooting-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Index.noindex/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/shooting-master-emit-module.dia",
+    "swift-dependencies" : "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Index.noindex/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/Objects-normal/x86_64/shooting-master.swiftdeps"
+  },
+  "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/DerivedData/shooting/Index.noindex/Build/Intermediates.noindex/shooting.build/Debug/shooting.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/shooting/AppDelegate.swift" : {
+
+  },
+  "/Users/chuanchiawei/Desktop/Swift/113.09.25/shooting/shooting/ViewController.swift" : {
+
+  }
+}
